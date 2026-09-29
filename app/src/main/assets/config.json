@@ -1,0 +1,18 @@
+{
+  "reminders": [
+    {"hour": 22, "minute": 0, "days_ahead": 1},
+    {"hour": 5, "minute": 30, "days_ahead": 0}
+  ],
+
+  "travel_minutes": 25,
+  "prep_minutes": 15,
+  "home_lat": 53.36794757483667,
+  "home_lon": 83.67761400531286,
+
+  "exempt_subjects": ["Физическая культура"],
+  "always_bring": ["повербанк"],
+  "items_by_subject": {},
+
+  "site_faculty_id": "15",
+  "site_group_id": "2129441963"
+}
